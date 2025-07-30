@@ -7,4 +7,5 @@ numpy>=1.26.4
 pandas>=2.2.1
 scipy>=1.12.0
 seaborn>=0.13.2
-git+https://github.com/guigoruiz1/tqdm.git
+tqdm>=4.67.0
+pyarrow>=21.0.0
