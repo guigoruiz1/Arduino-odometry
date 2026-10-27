@@ -1,5 +1,4 @@
 git+https://github.com/Mayitzin/ahrs.git
-influxdb_client>=1.41.0
 ipython>=8.12.3
 ipywidgets>=8.1.2
 matplotlib>=3.8.3
